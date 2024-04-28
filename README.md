@@ -1,1 +1,30 @@
-# CS120Portfolio
+| Number | Name | 
+| --- | --- |
+| 1 | [Activity 2](Act02.zip) |
+| 2 | [Activity 3](Act03.zip) |
+| 3 | [Activity 3a](Act03a.zip) |
+| 4 | [Activity 4a](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act04a.zip) |
+| 5 | [Activity 4b](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act04b.zip) |
+| 6 | [Activity 5a](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act05a.zip) |
+| 7 | [Activity 5b](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act05b.zip) |
+| 8 | [Activity 6](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act06.zip) |
+| 9 | [Activity 6a](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act06a.zip) |
+| 10 | [Activity 6b](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act06b.zip) |
+| 11 | [Activity 6ba](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act06ba.zip) |
+| 12 | [Activity 6c](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act06c.zip) |
+| 13 | [Activity 6d](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act06d.zip) |
+| 14 | [Activity 6e](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act06e.zip) |
+| 15 | [Activity 8](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act08.zip) |
+| 16 | [Activity 8a](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act08a.zip) |
+| 17 | [Activity 9](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act09.zip) |
+| 18 | [Activity 9a](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act09a.zip) |
+| 19 | [Activity 9b](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act09b.zip) |
+| 20 | [Activity 9c](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act09c.zip) |
+| 21 | [Activity 10b](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act10b.zip) |
+| 22 | [Activity 11a](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act11a.zip) |
+| 23 | [Activity 11ab](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act11ab.zip) |
+| 24 | [Activity 11b](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act11b.zip) |
+| 25 | [Activity 11e](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act11e.zip) |
+| 26 | [Activity 12a](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act12a.zip) |
+| 27 | [Activity 12s](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act12s.zip) |
+| 28 | [Activity 17](https://github.com/JCulpritt/CS120Portfolio/blob/main/Act17.zip) |
